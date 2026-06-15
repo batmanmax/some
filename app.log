@@ -1,0 +1,655 @@
+2025-08-02 08:40:03,615 - INFO - Loaded API key: AIzaSyBowvanN2Uv3qPzLEk0ZMrioADDXXPBZx0
+2025-08-02 08:40:03,615 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent
+2025-08-02 08:40:03,615 - INFO - Config loaded from: config.ini
+2025-08-02 08:40:03,615 - INFO - Loaded screenshot grouping time: 10s
+2025-08-02 08:40:03,615 - INFO - Loaded typing speed: 0.05s
+2025-08-02 08:40:03,733 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F7, stop: F9)
+2025-08-02 08:40:03,733 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2025-08-02 08:40:03,733 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2025-08-02 08:43:05,394 - INFO - Screenshot size: 0.19 MB
+2025-08-02 08:43:05,394 - INFO - Screenshot captured: screenshot_20250802_084305.png
+2025-08-02 08:43:05,394 - INFO - Screenshot captured
+2025-08-02 08:43:05,394 - INFO - Sending 1 screenshots to Gemini API
+2025-08-02 08:43:48,288 - INFO - Successfully received response from Gemini API
+2025-08-02 08:43:48,288 - INFO - Gemini API response received. Auto-typing...
+2025-08-02 08:43:54,293 - INFO - Auto-typing paused
+2025-08-02 08:44:16,174 - INFO - Auto-typing paused
+2025-08-02 08:44:29,438 - INFO - Auto-typing resumed
+2025-08-02 08:45:26,365 - INFO - Auto-typing completed
+2026-02-25 09:27:54,532 - INFO - Loaded API key: AIzaSyBowvanN2Uv3qPzLEk0ZMrioADDXXPBZx0
+2026-02-25 09:27:54,533 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-25 09:27:54,533 - INFO - Config loaded from: config.ini
+2026-02-25 09:27:54,533 - INFO - Loaded screenshot grouping time: 10s
+2026-02-25 09:27:54,533 - INFO - Loaded typing speed: 0.05s
+2026-02-25 09:27:54,746 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-25 09:27:54,747 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:27:54,747 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:28:07,052 - INFO - Loaded API key: AIzaSyBowvanN2Uv3qPzLEk0ZMrioADDXXPBZx0
+2026-02-25 09:28:07,052 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-25 09:28:07,052 - INFO - Config loaded from: config.ini
+2026-02-25 09:28:07,052 - INFO - Loaded screenshot grouping time: 10s
+2026-02-25 09:28:07,052 - INFO - Loaded typing speed: 0.05s
+2026-02-25 09:28:07,218 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-25 09:28:07,218 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:28:07,218 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:32:29,384 - INFO - Loaded API key: AIzaSyBowvanN2Uv3qPzLEk0ZMrioADDXXPBZx0
+2026-02-25 09:32:29,384 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-25 09:32:29,384 - INFO - Config loaded from: config.ini
+2026-02-25 09:32:29,385 - INFO - Loaded screenshot grouping time: 10s
+2026-02-25 09:32:29,385 - INFO - Loaded typing speed: 0.05s
+2026-02-25 09:32:29,568 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-25 09:32:29,568 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:32:29,568 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:32:53,892 - INFO - Loaded API key: AIzaSyBowvanN2Uv3qPzLEk0ZMrioADDXXPBZx0
+2026-02-25 09:32:53,892 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-25 09:32:53,893 - INFO - Config loaded from: config.ini
+2026-02-25 09:32:53,893 - INFO - Loaded screenshot grouping time: 10s
+2026-02-25 09:32:53,893 - INFO - Loaded typing speed: 0.05s
+2026-02-25 09:32:54,100 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-25 09:32:54,101 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:32:54,101 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:34:16,626 - INFO - Screenshot size: 0.36 MB
+2026-02-25 09:34:16,627 - INFO - Screenshot captured: screenshot_20260225_093416.png
+2026-02-25 09:34:16,628 - INFO - Screenshot captured
+2026-02-25 09:34:16,629 - INFO - Sending 1 screenshots to Gemini API
+2026-02-25 09:34:18,871 - ERROR - API request failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "API key expired. Please renew the API key.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "generativelanguage.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key expired. Please renew the API key."
+      }
+    ]
+  }
+}
+
+2026-02-25 09:34:18,874 - ERROR - Gemini API request failed: Error: API request failed with status 400
+2026-02-25 09:38:53,750 - INFO - Loaded API key: AAIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
+2026-02-25 09:38:53,751 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-25 09:38:53,751 - INFO - Config loaded from: config.ini
+2026-02-25 09:38:53,752 - INFO - Loaded screenshot grouping time: 10s
+2026-02-25 09:38:53,752 - INFO - Loaded typing speed: 0.05s
+2026-02-25 09:38:53,941 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-25 09:38:53,942 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:38:53,942 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:39:11,687 - INFO - Screenshot size: 0.29 MB
+2026-02-25 09:39:11,688 - INFO - Screenshot captured: screenshot_20260225_093911.png
+2026-02-25 09:39:11,691 - INFO - Screenshot captured
+2026-02-25 09:39:11,692 - INFO - Sending 1 screenshots to Gemini API
+2026-02-25 09:39:15,196 - ERROR - API request failed: 400 - {
+  "error": {
+    "code": 400,
+    "message": "API key not valid. Please pass a valid API key.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "API_KEY_INVALID",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "generativelanguage.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "API key not valid. Please pass a valid API key."
+      }
+    ]
+  }
+}
+
+2026-02-25 09:39:15,198 - ERROR - Gemini API request failed: Error: API request failed with status 400
+2026-02-25 09:49:22,067 - INFO - Loaded API key: AIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
+2026-02-25 09:49:22,068 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-25 09:49:22,068 - INFO - Config loaded from: config.ini
+2026-02-25 09:49:22,068 - INFO - Loaded screenshot grouping time: 10s
+2026-02-25 09:49:22,069 - INFO - Loaded typing speed: 0.05s
+2026-02-25 09:49:22,272 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-25 09:49:22,273 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-25 09:49:22,273 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 09:49:42,809 - INFO - Screenshot size: 0.43 MB
+2026-02-25 09:49:42,809 - INFO - Screenshot captured: screenshot_20260225_094942.png
+2026-02-25 09:49:42,811 - INFO - Screenshot captured
+2026-02-25 09:49:42,811 - INFO - Sending 1 screenshots to Gemini API
+2026-02-25 09:50:19,597 - INFO - Successfully received response from Gemini API
+2026-02-25 09:50:19,601 - INFO - Gemini API response received. Auto-typing...
+2026-02-25 09:50:58,956 - INFO - Auto-typing completed
+2026-02-25 10:00:35,583 - INFO - Screenshot size: 0.27 MB
+2026-02-25 10:00:35,584 - INFO - Screenshot captured: screenshot_20260225_100035.png
+2026-02-25 10:00:35,585 - INFO - Screenshot captured
+2026-02-25 10:00:35,586 - INFO - Sending 1 screenshots to Gemini API
+2026-02-25 10:01:04,976 - INFO - Successfully received response from Gemini API
+2026-02-25 10:01:04,978 - INFO - Gemini API response received. Auto-typing...
+2026-02-25 10:01:16,764 - INFO - Typing speed adjusted to 0.080s per character
+2026-02-25 10:02:04,985 - INFO - Auto-typing stopped
+2026-02-25 10:02:05,263 - INFO - Auto-typing completed
+2026-02-25 11:14:24,803 - INFO - Auto-typing stopped
+2026-02-25 11:14:25,062 - INFO - Auto-typing stopped
+2026-02-25 11:14:26,158 - INFO - Auto-typing resumed
+2026-02-25 11:14:27,137 - INFO - Auto-typing paused
+2026-02-25 12:04:34,676 - INFO - Loaded API key: AIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
+2026-02-25 12:04:34,679 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-25 12:04:34,679 - INFO - Config loaded from: config.ini
+2026-02-25 12:04:34,680 - INFO - Loaded screenshot grouping time: 10s
+2026-02-25 12:04:34,680 - INFO - Loaded typing speed: 0.05s
+2026-02-25 12:04:34,856 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-25 12:04:34,857 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-25 12:04:34,857 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 12:05:08,861 - INFO - Loaded API key: AIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
+2026-02-25 12:05:08,862 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-25 12:05:08,862 - INFO - Config loaded from: config.ini
+2026-02-25 12:05:08,863 - INFO - Loaded screenshot grouping time: 10s
+2026-02-25 12:05:08,863 - INFO - Loaded typing speed: 0.05s
+2026-02-25 12:05:09,024 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-25 12:05:09,024 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-25 12:05:09,025 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-25 12:07:12,587 - INFO - Screenshot size: 0.13 MB
+2026-02-25 12:07:12,588 - INFO - Screenshot captured: screenshot_20260225_120712.png
+2026-02-25 12:07:12,589 - INFO - Screenshot captured
+2026-02-25 12:07:12,590 - INFO - Sending 1 screenshots to Gemini API
+2026-02-25 12:07:20,061 - INFO - Successfully received response from Gemini API
+2026-02-25 12:07:20,065 - INFO - Gemini API response received. Auto-typing...
+2026-02-25 12:07:24,972 - INFO - Auto-typing completed
+2026-02-25 12:07:47,555 - INFO - Screenshot size: 0.14 MB
+2026-02-25 12:07:47,555 - INFO - Screenshot captured: screenshot_20260225_120747.png
+2026-02-25 12:07:47,556 - INFO - Screenshot captured
+2026-02-25 12:07:47,556 - INFO - Sending 1 screenshots to Gemini API
+2026-02-25 12:07:56,312 - INFO - Successfully received response from Gemini API
+2026-02-25 12:07:56,315 - INFO - Gemini API response received. Auto-typing...
+2026-02-25 12:08:04,906 - INFO - Auto-typing completed
+2026-02-25 12:08:34,286 - INFO - Screenshot size: 0.22 MB
+2026-02-25 12:08:34,291 - INFO - Screenshot captured: screenshot_20260225_120834.png
+2026-02-25 12:08:34,292 - INFO - Screenshot captured
+2026-02-25 12:08:34,293 - INFO - Sending 1 screenshots to Gemini API
+2026-02-25 12:08:50,650 - INFO - Successfully received response from Gemini API
+2026-02-25 12:08:50,658 - INFO - Gemini API response received. Auto-typing...
+2026-02-25 12:11:00,552 - INFO - Auto-typing completed
+2026-02-28 19:27:47,030 - INFO - Loaded API key: AIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
+2026-02-28 19:27:47,031 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-28 19:27:47,032 - INFO - Config loaded from: config.ini
+2026-02-28 19:27:47,032 - INFO - Loaded screenshot grouping time: 10s
+2026-02-28 19:27:47,032 - INFO - Loaded typing speed: 0.05s
+2026-02-28 19:27:47,032 - INFO - Loaded API key: AIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
+2026-02-28 19:27:47,033 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-28 19:27:47,033 - INFO - Config loaded from: config.ini
+2026-02-28 19:27:47,033 - INFO - Loaded screenshot grouping time: 10s
+2026-02-28 19:27:47,034 - INFO - Loaded typing speed: 0.05s
+2026-02-28 19:27:47,355 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-28 19:27:47,356 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-28 19:27:47,356 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-28 19:27:47,357 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-28 19:27:47,357 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-28 19:27:47,357 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-28 19:28:03,288 - INFO - Loaded API key: AIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
+2026-02-28 19:28:03,288 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-02-28 19:28:03,289 - INFO - Config loaded from: config.ini
+2026-02-28 19:28:03,289 - INFO - Loaded screenshot grouping time: 10s
+2026-02-28 19:28:03,289 - INFO - Loaded typing speed: 0.05s
+2026-02-28 19:28:03,467 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-02-28 19:28:03,468 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-02-28 19:28:03,468 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-02-28 19:31:09,684 - INFO - Screenshot size: 0.17 MB
+2026-02-28 19:31:09,685 - INFO - Screenshot captured: screenshot_20260228_193109.png
+2026-02-28 19:31:09,685 - INFO - Screenshot captured
+2026-02-28 19:31:09,686 - INFO - Sending 1 screenshots to Gemini API
+2026-02-28 19:31:16,950 - INFO - Successfully received response from Gemini API
+2026-02-28 19:31:16,953 - INFO - Gemini API response received. Auto-typing...
+2026-02-28 19:31:20,484 - INFO - Auto-typing completed
+2026-02-28 19:31:31,442 - INFO - Screenshot size: 0.17 MB
+2026-02-28 19:31:31,442 - INFO - Screenshot captured: screenshot_20260228_193131.png
+2026-02-28 19:31:31,443 - INFO - Screenshot captured
+2026-02-28 19:31:31,443 - INFO - Sending 1 screenshots to Gemini API
+2026-02-28 19:31:36,678 - INFO - Successfully received response from Gemini API
+2026-02-28 19:31:36,681 - INFO - Gemini API response received. Auto-typing...
+2026-02-28 19:31:40,668 - INFO - Auto-typing completed
+2026-02-28 19:31:50,220 - INFO - Screenshot size: 0.17 MB
+2026-02-28 19:31:50,221 - INFO - Screenshot captured: screenshot_20260228_193150.png
+2026-02-28 19:31:50,221 - INFO - Screenshot captured
+2026-02-28 19:31:50,222 - INFO - Sending 1 screenshots to Gemini API
+2026-02-28 19:31:56,169 - INFO - Successfully received response from Gemini API
+2026-02-28 19:31:56,172 - INFO - Gemini API response received. Auto-typing...
+2026-02-28 19:32:00,616 - INFO - Auto-typing completed
+2026-02-28 19:32:16,164 - INFO - Screenshot size: 0.17 MB
+2026-02-28 19:32:16,164 - INFO - Screenshot captured: screenshot_20260228_193216.png
+2026-02-28 19:32:16,165 - INFO - Screenshot captured
+2026-02-28 19:32:16,165 - INFO - Sending 1 screenshots to Gemini API
+2026-02-28 19:32:21,976 - INFO - Successfully received response from Gemini API
+2026-02-28 19:32:21,979 - INFO - Gemini API response received. Auto-typing...
+2026-02-28 19:32:27,178 - INFO - Auto-typing completed
+2026-02-28 19:32:40,861 - INFO - Screenshot size: 0.18 MB
+2026-02-28 19:32:40,861 - INFO - Screenshot captured: screenshot_20260228_193240.png
+2026-02-28 19:32:40,861 - INFO - Screenshot captured
+2026-02-28 19:32:40,862 - INFO - Sending 1 screenshots to Gemini API
+2026-02-28 19:32:48,191 - INFO - Successfully received response from Gemini API
+2026-02-28 19:32:48,193 - INFO - Gemini API response received. Auto-typing...
+2026-02-28 19:32:55,394 - INFO - Auto-typing completed
+2026-02-28 19:33:22,335 - INFO - Screenshot size: 0.27 MB
+2026-02-28 19:33:22,335 - INFO - Screenshot captured: screenshot_20260228_193322.png
+2026-02-28 19:33:22,336 - INFO - Screenshot captured
+2026-02-28 19:33:22,336 - INFO - Sending 1 screenshots to Gemini API
+2026-02-28 19:33:39,700 - INFO - Successfully received response from Gemini API
+2026-02-28 19:33:39,702 - INFO - Gemini API response received. Auto-typing...
+2026-02-28 19:36:12,613 - INFO - Auto-typing completed
+2026-03-02 11:35:26,331 - INFO - Loaded API key: AIzaSyCzxPWgvEkEbnXbLpaRYCy1QFA7KP9dxtc
+2026-03-02 11:35:26,332 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-02 11:35:26,332 - INFO - Config loaded from: config.ini
+2026-03-02 11:35:26,332 - INFO - Loaded screenshot grouping time: 10s
+2026-03-02 11:35:26,333 - INFO - Loaded typing speed: 0.05s
+2026-03-02 11:35:26,505 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: ctrl+alt+p, resume: ctrl+alt+r, stop: ctrl+alt+s, speed_1: ctrl+alt+1, speed_2: ctrl+alt+2, speed_3: ctrl+alt+3, speed_4: ctrl+alt+4)
+2026-03-02 11:35:26,506 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-02 11:35:26,507 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-02 11:37:29,261 - INFO - Screenshot size: 0.14 MB
+2026-03-02 11:37:29,261 - INFO - Screenshot captured: screenshot_20260302_113729.png
+2026-03-02 11:37:29,262 - INFO - Screenshot captured
+2026-03-02 11:37:29,263 - INFO - Sending 1 screenshots to Gemini API
+2026-03-02 11:37:46,578 - INFO - Successfully received response from Gemini API
+2026-03-02 11:37:46,580 - INFO - Gemini API response received. Auto-typing...
+2026-03-02 11:37:49,962 - INFO - Auto-typing completed
+2026-03-02 11:38:05,630 - INFO - Screenshot size: 0.17 MB
+2026-03-02 11:38:05,631 - INFO - Screenshot captured: screenshot_20260302_113805.png
+2026-03-02 11:38:05,632 - INFO - Screenshot captured
+2026-03-02 11:38:05,632 - INFO - Sending 1 screenshots to Gemini API
+2026-03-02 11:38:21,856 - INFO - Successfully received response from Gemini API
+2026-03-02 11:38:21,858 - INFO - Gemini API response received. Auto-typing...
+2026-03-02 11:40:21,926 - INFO - Auto-typing completed
+2026-03-02 11:43:15,126 - INFO - Screenshot size: 0.21 MB
+2026-03-02 11:43:15,127 - INFO - Screenshot captured: screenshot_20260302_114315.png
+2026-03-02 11:43:15,128 - INFO - Screenshot captured
+2026-03-02 11:43:15,128 - INFO - Sending 1 screenshots to Gemini API
+2026-03-02 11:43:33,018 - INFO - Successfully received response from Gemini API
+2026-03-02 11:43:33,020 - INFO - Gemini API response received. Auto-typing...
+2026-03-02 11:44:51,397 - INFO - Auto-typing completed
+2026-03-07 09:47:24,111 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-07 09:47:24,111 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-07 09:47:24,112 - INFO - Config loaded from: config.ini
+2026-03-07 09:47:24,112 - INFO - Loaded screenshot grouping time: 10s
+2026-03-07 09:47:24,112 - INFO - Loaded typing speed: 0.05s
+2026-03-07 09:47:24,198 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, speed_cycle: F2)
+2026-03-07 09:47:24,198 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-07 09:47:24,198 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-07 09:51:57,565 - INFO - Screenshot size: 0.24 MB
+2026-03-07 09:51:57,566 - INFO - Screenshot captured: screenshot_20260307_095157.png
+2026-03-07 09:51:57,567 - INFO - Screenshot captured
+2026-03-07 09:51:57,568 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-03-07 09:52:06,094 - INFO - Screenshot size: 0.24 MB
+2026-03-07 09:52:06,094 - INFO - Screenshot captured: screenshot_20260307_095206.png
+2026-03-07 09:52:06,095 - INFO - Screenshot captured
+2026-03-07 09:52:06,096 - INFO - Screenshots queued: 2. Waiting 10s for more...
+2026-03-07 09:52:08,447 - INFO - Screenshot size: 0.22 MB
+2026-03-07 09:52:08,447 - INFO - Screenshot captured: screenshot_20260307_095208.png
+2026-03-07 09:52:08,449 - INFO - Screenshot captured
+2026-03-07 09:52:08,449 - INFO - Screenshots queued: 3. Waiting 10s for more...
+2026-03-07 09:52:10,528 - INFO - Screenshot size: 0.18 MB
+2026-03-07 09:52:10,528 - INFO - Screenshot captured: screenshot_20260307_095210.png
+2026-03-07 09:52:10,530 - INFO - Screenshot captured
+2026-03-07 09:52:10,530 - INFO - Screenshots queued: 4. Waiting 10s for more...
+2026-03-07 09:52:20,540 - INFO - Grouping timer expired. Sending 4 screenshot(s) to API...
+2026-03-07 09:52:20,541 - INFO - Sending 4 screenshots to Gemini API
+2026-03-07 09:52:47,317 - INFO - Successfully received response from Gemini API
+2026-03-07 09:52:47,318 - INFO - Gemini API response received. Auto-typing...
+2026-03-07 09:55:52,691 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,691 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,691 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,692 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,692 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,692 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,692 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,692 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,692 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,693 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,693 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,693 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,693 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,693 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,693 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,693 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,693 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,693 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,694 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,694 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,694 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,694 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,694 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,694 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,695 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,695 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,695 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,695 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,695 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,695 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,695 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,696 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,696 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,696 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,696 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,696 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,696 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,696 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,696 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,696 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,697 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,697 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,697 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,697 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,697 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,697 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,698 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - ERROR - Error handling newline/auto-indent: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - ERROR - Error typing line: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+2026-03-07 09:55:52,699 - INFO - Auto-typing completed
+2026-03-07 10:08:40,540 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-07 10:08:40,540 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-07 10:08:40,540 - INFO - Config loaded from: config.ini
+2026-03-07 10:08:40,540 - INFO - Loaded screenshot grouping time: 10s
+2026-03-07 10:08:40,540 - INFO - Loaded typing speed: 0.05s
+2026-03-07 10:08:40,612 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, speed_cycle: F2)
+2026-03-07 10:08:40,612 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-07 10:08:40,612 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-07 10:11:49,194 - INFO - Screenshot size: 0.24 MB
+2026-03-07 10:11:49,194 - INFO - Screenshot captured: screenshot_20260307_101149.png
+2026-03-07 10:11:49,196 - INFO - Screenshot captured
+2026-03-07 10:11:49,196 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-03-07 10:11:57,195 - INFO - Screenshot size: 0.19 MB
+2026-03-07 10:11:57,195 - INFO - Screenshot captured: screenshot_20260307_101157.png
+2026-03-07 10:11:57,197 - INFO - Screenshot captured
+2026-03-07 10:11:57,197 - INFO - Screenshots queued: 2. Waiting 10s for more...
+2026-03-07 10:12:04,736 - INFO - Screenshot size: 0.21 MB
+2026-03-07 10:12:04,736 - INFO - Screenshot captured: screenshot_20260307_101204.png
+2026-03-07 10:12:04,737 - INFO - Screenshot captured
+2026-03-07 10:12:04,738 - INFO - Screenshots queued: 3. Waiting 10s for more...
+2026-03-07 10:12:12,245 - INFO - Screenshot size: 0.20 MB
+2026-03-07 10:12:12,245 - INFO - Screenshot captured: screenshot_20260307_101212.png
+2026-03-07 10:12:12,246 - INFO - Screenshot captured
+2026-03-07 10:12:12,246 - INFO - Screenshots queued: 4. Waiting 10s for more...
+2026-03-07 10:12:22,259 - INFO - Grouping timer expired. Sending 4 screenshot(s) to API...
+2026-03-07 10:12:22,259 - INFO - Sending 4 screenshots to Gemini API
+2026-03-07 10:13:44,003 - INFO - Auto-typing resumed
+2026-03-07 10:13:44,959 - INFO - Successfully received response from Gemini API
+2026-03-07 10:13:44,960 - INFO - Gemini API response received. Auto-typing...
+2026-03-07 10:18:41,409 - INFO - Auto-typing completed
+2026-03-07 10:30:26,640 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-07 10:30:26,641 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-07 10:30:26,641 - INFO - Config loaded from: config.ini
+2026-03-07 10:30:26,641 - INFO - Loaded screenshot grouping time: 10s
+2026-03-07 10:30:26,641 - INFO - Loaded typing speed: 0.05s
+2026-03-07 10:30:26,721 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, speed_cycle: F2)
+2026-03-07 10:30:26,721 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-07 10:30:26,721 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-07 10:32:49,940 - INFO - Screenshot size: 0.16 MB
+2026-03-07 10:32:49,940 - INFO - Screenshot captured: screenshot_20260307_103249.png
+2026-03-07 10:32:49,941 - INFO - Screenshot captured
+2026-03-07 10:32:49,942 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-03-07 10:32:59,941 - INFO - Grouping timer expired. Sending 1 screenshot(s) to API...
+2026-03-07 10:32:59,941 - INFO - Sending 1 screenshots to Gemini API
+2026-03-07 10:33:14,135 - INFO - Successfully received response from Gemini API
+2026-03-07 10:33:14,136 - INFO - Gemini API response received. Auto-typing...
+2026-03-07 10:34:21,264 - INFO - Auto-typing completed
+2026-03-09 11:42:23,168 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-09 11:42:23,168 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-09 11:42:23,168 - INFO - Config loaded from: config.ini
+2026-03-09 11:42:23,168 - INFO - Loaded screenshot grouping time: 10s
+2026-03-09 11:42:23,168 - INFO - Loaded typing speed: 0.05s
+2026-03-09 11:42:23,226 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-03-09 11:42:23,226 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-09 11:42:23,226 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 11:42:31,573 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-09 11:42:31,573 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-09 11:42:31,573 - INFO - Config loaded from: config.ini
+2026-03-09 11:42:31,573 - INFO - Loaded screenshot grouping time: 10s
+2026-03-09 11:42:31,573 - INFO - Loaded typing speed: 0.05s
+2026-03-09 11:42:31,632 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-03-09 11:42:31,632 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-09 11:42:31,632 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 11:43:11,064 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-09 11:43:11,074 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-09 11:43:11,074 - INFO - Config loaded from: config.ini
+2026-03-09 11:43:11,074 - INFO - Loaded screenshot grouping time: 10s
+2026-03-09 11:43:11,074 - INFO - Loaded typing speed: 0.05s
+2026-03-09 11:43:11,126 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-03-09 11:43:11,126 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-09 11:43:11,126 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 11:55:47,458 - INFO - Screenshot size: 0.24 MB
+2026-03-09 11:55:47,458 - INFO - Screenshot captured: screenshot_20260309_115547.png
+2026-03-09 11:55:47,458 - INFO - Screenshot captured
+2026-03-09 11:55:47,477 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-03-09 11:55:51,551 - INFO - Screenshot size: 0.18 MB
+2026-03-09 11:55:51,551 - INFO - Screenshot captured: screenshot_20260309_115551.png
+2026-03-09 11:55:51,551 - INFO - Screenshot captured
+2026-03-09 11:55:51,571 - INFO - Screenshots queued: 2. Waiting 10s for more...
+2026-03-09 11:56:01,572 - INFO - Grouping timer expired. Sending 2 screenshot(s) to API...
+2026-03-09 11:56:01,572 - INFO - Sending 2 screenshots to Gemini API
+2026-03-09 11:56:08,417 - INFO - Successfully received response from Gemini API
+2026-03-09 11:56:08,417 - INFO - Gemini API response received. Auto-typing...
+2026-03-09 11:57:01,974 - INFO - Auto-typing paused
+2026-03-09 11:57:03,950 - INFO - Auto-typing resumed
+2026-03-09 11:57:05,345 - INFO - Auto-typing paused
+2026-03-09 11:57:05,832 - INFO - Auto-typing resumed
+2026-03-09 11:57:08,867 - INFO - Auto-typing stopped
+2026-03-09 12:03:44,755 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-09 12:03:44,755 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-09 12:03:44,755 - INFO - Config loaded from: config.ini
+2026-03-09 12:03:44,755 - INFO - Loaded screenshot grouping time: 10s
+2026-03-09 12:03:44,755 - INFO - Loaded typing speed: 0.05s
+2026-03-09 12:03:44,820 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-03-09 12:03:44,821 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-09 12:03:44,821 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 12:05:10,802 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-09 12:05:10,802 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-09 12:05:10,802 - INFO - Config loaded from: config.ini
+2026-03-09 12:05:10,802 - INFO - Loaded screenshot grouping time: 10s
+2026-03-09 12:05:10,803 - INFO - Loaded typing speed: 0.05s
+2026-03-09 12:05:10,882 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-03-09 12:05:10,883 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-09 12:05:10,883 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 12:08:50,815 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-09 12:08:50,815 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-09 12:08:50,815 - INFO - Config loaded from: config.ini
+2026-03-09 12:08:50,815 - INFO - Loaded screenshot grouping time: 10s
+2026-03-09 12:08:50,815 - INFO - Loaded typing speed: 0.05s
+2026-03-09 12:08:50,881 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-03-09 12:08:50,881 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-09 12:08:50,881 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 12:11:22,339 - INFO - Screenshot size: 0.20 MB
+2026-03-09 12:11:22,339 - INFO - Screenshot captured: screenshot_20260309_121122.png
+2026-03-09 12:11:22,339 - INFO - Screenshot captured
+2026-03-09 12:11:22,357 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-03-09 12:11:25,965 - INFO - Screenshot size: 0.20 MB
+2026-03-09 12:11:25,965 - INFO - Screenshot captured: screenshot_20260309_121125.png
+2026-03-09 12:11:25,965 - INFO - Screenshot captured
+2026-03-09 12:11:25,986 - INFO - Screenshots queued: 2. Waiting 10s for more...
+2026-03-09 12:11:35,999 - INFO - Grouping timer expired. Sending 2 screenshot(s) to API...
+2026-03-09 12:11:35,999 - INFO - Sending 2 screenshots to Gemini API
+2026-03-09 12:11:50,035 - INFO - Successfully received response from Gemini API
+2026-03-09 12:11:50,035 - INFO - Gemini API response received. Auto-typing...
+2026-03-09 12:14:50,263 - INFO - Auto-typing completed
+2026-03-09 12:19:45,630 - INFO - Loaded API key: AIzaSyAeRwaeBMbs_MSJhkbrDLFX7DNW7Jl_mm0
+2026-03-09 12:19:45,630 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-09 12:19:45,630 - INFO - Config loaded from: config.ini
+2026-03-09 12:19:45,630 - INFO - Loaded screenshot grouping time: 10s
+2026-03-09 12:19:45,630 - INFO - Loaded typing speed: 0.05s
+2026-03-09 12:19:45,678 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-03-09 12:19:45,678 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-09 12:19:45,678 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 12:20:47,668 - INFO - Screenshot size: 0.18 MB
+2026-03-09 12:20:47,668 - INFO - Screenshot captured: screenshot_20260309_122047.png
+2026-03-09 12:20:47,668 - INFO - Screenshot captured
+2026-03-09 12:20:47,685 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-03-09 12:20:50,993 - INFO - Screenshot size: 0.20 MB
+2026-03-09 12:20:50,993 - INFO - Screenshot captured: screenshot_20260309_122050.png
+2026-03-09 12:20:50,993 - INFO - Screenshot captured
+2026-03-09 12:20:51,012 - INFO - Screenshots queued: 2. Waiting 10s for more...
+2026-03-09 12:21:01,012 - INFO - Grouping timer expired. Sending 2 screenshot(s) to API...
+2026-03-09 12:21:01,012 - INFO - Sending 2 screenshots to Gemini API
+2026-03-09 12:21:16,489 - INFO - Successfully received response from Gemini API
+2026-03-09 12:21:16,489 - INFO - Gemini API response received. Auto-typing...
+2026-03-09 12:21:57,570 - INFO - Auto-typing completed
+2026-03-09 13:08:57,928 - INFO - Loaded 4 API key(s)
+2026-03-09 13:08:57,928 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-03-09 13:08:57,928 - INFO - Config loaded from: config.ini
+2026-03-09 13:08:57,928 - INFO - Loaded screenshot grouping time: 10s
+2026-03-09 13:08:57,928 - INFO - Loaded typing speed: 0.05s
+2026-03-09 13:08:57,991 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-03-09 13:08:57,991 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-03-09 13:08:57,991 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-03-09 13:10:06,153 - INFO - Screenshot size: 0.31 MB
+2026-03-09 13:10:06,153 - INFO - Screenshot captured: screenshot_20260309_131006.png
+2026-03-09 13:10:06,153 - INFO - Screenshot captured
+2026-03-09 13:10:06,174 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-03-09 13:10:09,392 - INFO - Screenshot size: 0.29 MB
+2026-03-09 13:10:09,392 - INFO - Screenshot captured: screenshot_20260309_131009.png
+2026-03-09 13:10:09,393 - INFO - Screenshot captured
+2026-03-09 13:10:09,411 - INFO - Screenshots queued: 2. Waiting 10s for more...
+2026-03-09 13:10:13,122 - INFO - Screenshot size: 0.30 MB
+2026-03-09 13:10:13,122 - INFO - Screenshot captured: screenshot_20260309_131013.png
+2026-03-09 13:10:13,122 - INFO - Screenshot captured
+2026-03-09 13:10:13,138 - INFO - Screenshots queued: 3. Waiting 10s for more...
+2026-03-09 13:10:23,145 - INFO - Grouping timer expired. Sending 3 screenshot(s) to API...
+2026-03-09 13:10:23,145 - INFO - Sending 3 screenshots to Gemini API
+2026-03-09 13:10:38,241 - INFO - Successfully received response from Gemini API using key index 0
+2026-03-09 13:10:38,242 - INFO - Gemini API response received. Auto-typing...
+2026-03-09 13:12:24,479 - INFO - Auto-typing completed
+2026-06-15 18:46:31,398 - INFO - Loaded 6 API key(s)
+2026-06-15 18:46:31,399 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-06-15 18:46:31,399 - INFO - Config loaded from: config.ini
+2026-06-15 18:46:31,399 - INFO - Loaded screenshot grouping time: 10s
+2026-06-15 18:46:31,399 - INFO - Loaded typing speed: 0.05s
+2026-06-15 18:46:31,576 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-06-15 18:46:31,576 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-06-15 18:46:31,576 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-06-15 18:46:42,929 - INFO - Screenshot size: 0.27 MB
+2026-06-15 18:46:42,929 - INFO - Screenshot captured: screenshot_20260615_184642.png
+2026-06-15 18:46:42,929 - INFO - Screenshot captured
+2026-06-15 18:46:42,951 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-06-15 18:46:46,629 - INFO - Screenshot size: 0.17 MB
+2026-06-15 18:46:46,629 - INFO - Screenshot captured: screenshot_20260615_184646.png
+2026-06-15 18:46:46,629 - INFO - Screenshot captured
+2026-06-15 18:46:46,640 - INFO - Screenshots queued: 2. Waiting 10s for more...
+2026-06-15 18:46:49,250 - INFO - Screenshot size: 0.26 MB
+2026-06-15 18:46:49,250 - INFO - Screenshot captured: screenshot_20260615_184649.png
+2026-06-15 18:46:49,250 - INFO - Screenshot captured
+2026-06-15 18:46:49,264 - INFO - Screenshots queued: 3. Waiting 10s for more...
+2026-06-15 18:46:59,279 - INFO - Grouping timer expired. Sending 3 screenshot(s) to API...
+2026-06-15 18:46:59,279 - INFO - Sending 3 screenshots to Gemini API
+2026-06-15 18:47:03,055 - ERROR - API request failed with key index 0: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Your project has been denied access. Please contact support.",
+    "status": "PERMISSION_DENIED"
+  }
+}
+
+2026-06-15 18:47:03,055 - INFO - Switching to next API key (index 1) and retrying...
+2026-06-15 18:47:08,791 - ERROR - API request failed with key index 1: 503 - {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-06-15 18:47:08,791 - INFO - Switching to next API key (index 2) and retrying...
+2026-06-15 18:47:15,243 - ERROR - API request failed with key index 2: 503 - {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-06-15 18:47:15,243 - INFO - Switching to next API key (index 3) and retrying...
+2026-06-15 18:47:21,183 - ERROR - API request failed with key index 3: 503 - {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-06-15 18:47:21,183 - INFO - Switching to next API key (index 4) and retrying...
+2026-06-15 18:47:28,351 - ERROR - API request failed with key index 4: 503 - {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-06-15 18:47:28,351 - INFO - Switching to next API key (index 5) and retrying...
+2026-06-15 18:47:33,165 - ERROR - API request failed with key index 5: 503 - {
+  "error": {
+    "code": 503,
+    "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+    "status": "UNAVAILABLE"
+  }
+}
+
+2026-06-15 18:47:33,165 - INFO - Switching to next API key (index 0) and retrying...
+2026-06-15 18:47:33,165 - ERROR - All API keys failed or exhausted for this request.
+2026-06-15 18:49:07,038 - INFO - Loaded 4 API key(s)
+2026-06-15 18:49:07,038 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-06-15 18:49:07,039 - INFO - Config loaded from: config.ini
+2026-06-15 18:49:07,039 - INFO - Loaded screenshot grouping time: 10s
+2026-06-15 18:49:07,039 - INFO - Loaded typing speed: 0.05s
+2026-06-15 18:49:07,171 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-06-15 18:49:07,171 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-06-15 18:49:07,171 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
+2026-06-15 18:49:26,224 - INFO - Screenshot size: 0.27 MB
+2026-06-15 18:49:26,225 - INFO - Screenshot captured: screenshot_20260615_184926.png
+2026-06-15 18:49:26,225 - INFO - Screenshot captured
+2026-06-15 18:49:26,242 - INFO - Screenshots queued: 1. Waiting 10s for more...
+2026-06-15 18:49:30,652 - INFO - Screenshot size: 0.27 MB
+2026-06-15 18:49:30,652 - INFO - Screenshot captured: screenshot_20260615_184930.png
+2026-06-15 18:49:30,652 - INFO - Screenshot captured
+2026-06-15 18:49:30,665 - INFO - Screenshots queued: 2. Waiting 10s for more...
+2026-06-15 18:49:34,282 - INFO - Screenshot size: 0.20 MB
+2026-06-15 18:49:34,282 - INFO - Screenshot captured: screenshot_20260615_184934.png
+2026-06-15 18:49:34,282 - INFO - Screenshot captured
+2026-06-15 18:49:34,295 - INFO - Screenshots queued: 3. Waiting 10s for more...
+2026-06-15 18:49:44,300 - INFO - Grouping timer expired. Sending 3 screenshot(s) to API...
+2026-06-15 18:49:44,300 - INFO - Sending 3 screenshots to Gemini API
+2026-06-15 18:50:15,369 - INFO - Successfully received response from Gemini API using key index 0
+2026-06-15 18:50:15,369 - INFO - Gemini API response received. Auto-typing...
+2026-06-15 18:50:31,713 - INFO - Auto-typing paused
+2026-06-15 18:51:06,743 - INFO - Auto-typing resumed
+2026-06-15 18:52:43,058 - INFO - Auto-typing completed
+2026-06-15 18:57:50,984 - INFO - Loaded 4 API key(s)
+2026-06-15 18:57:51,001 - INFO - Loaded API URL: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+2026-06-15 18:57:51,002 - INFO - Config loaded from: config.ini
+2026-06-15 18:57:51,002 - INFO - Loaded screenshot grouping time: 10s
+2026-06-15 18:57:51,002 - INFO - Loaded typing speed: 0.05s
+2026-06-15 18:57:51,165 - INFO - Hotkeys registered (screenshot: ctrl+print_screen, pause: F8, resume: F9, stop: ctrl+f10, speed_cycle: F2)
+2026-06-15 18:57:51,166 - INFO - AI Screenshot Assistant started (no GUI mode). Use hotkeys to control.
+2026-06-15 18:57:51,166 - INFO - AI Screenshot Assistant running in background. Press Ctrl+C to exit.
